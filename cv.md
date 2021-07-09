@@ -13,3 +13,6 @@
 - JIRA
 
 #### Here is my LinkedIn profile page: https://www.linkedin.com/in/giorgi-gogichaishvili/
+
+#### I study at Swedish Institute Management Program
+#### My level of English is C1
