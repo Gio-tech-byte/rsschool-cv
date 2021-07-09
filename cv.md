@@ -11,3 +11,5 @@
 - HTML
 - CSS
 - JIRA
+
+#### Here is my LinkedIn profile page: https://www.linkedin.com/in/giorgi-gogichaishvili/
